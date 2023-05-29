@@ -1,0 +1,10 @@
+				@font-face {
+					font-family: 'rotis-semi';
+					src: url('/cbst/wp-content/uploads/useanyfont/7183rotis-semi.woff2') format('woff2'),
+						url('/cbst/wp-content/uploads/useanyfont/7183rotis-semi.woff') format('woff');
+					  font-display: auto;
+				}
+
+				.rotis-semi{font-family: 'rotis-semi' !important;}
+
+		
